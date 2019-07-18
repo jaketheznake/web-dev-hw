@@ -1,0 +1,11 @@
+6. The internet is a collection of information stored in billions of computers worldwide, which is exchanged and transferred through
+interconnected electronic pathways. The World Wide Web is software and protocol that allows users to access the information contained on
+the internet in a way that is easy and meaningful to the user.
+
+7. Each internet connected device has a modem (or similar device) that passes information packets to and from your computer to other
+computers which form a route to the computer you are trying to access, which then sends your computer message packets confirming and 
+responding to your messages.
+
+8. A directory is a file which contains other files. It is usually nested within other directories which should logically create an easy 
+system to find the file you are searching for.
+
